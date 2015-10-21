@@ -1263,7 +1263,7 @@
                     "email": "stof@notk.org"
                 },
                 {
-                    "name": "KnpLabs",
+                    "name": "Knplabs",
                     "homepage": "http://knplabs.com"
                 },
                 {
@@ -1836,17 +1836,17 @@
         },
         {
             "name": "sensio/distribution-bundle",
-            "version": "v4.0.1",
+            "version": "v4.0.2",
             "target-dir": "Sensio/Bundle/DistributionBundle",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sensiolabs/SensioDistributionBundle.git",
-                "reference": "62d99ba41144e704300e40f755346553702b27c9"
+                "reference": "6f5d663a1a34b5116c69009895feb81fb37a8875"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sensiolabs/SensioDistributionBundle/zipball/62d99ba41144e704300e40f755346553702b27c9",
-                "reference": "62d99ba41144e704300e40f755346553702b27c9",
+                "url": "https://api.github.com/repos/sensiolabs/SensioDistributionBundle/zipball/6f5d663a1a34b5116c69009895feb81fb37a8875",
+                "reference": "6f5d663a1a34b5116c69009895feb81fb37a8875",
                 "shasum": ""
             },
             "require": {
@@ -1892,7 +1892,7 @@
                 "configuration",
                 "distribution"
             ],
-            "time": "2015-08-03 10:07:56"
+            "time": "2015-10-20 06:54:18"
         },
         {
             "name": "sensio/framework-extra-bundle",
@@ -3046,12 +3046,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/twbs/bootstrap.git",
-                "reference": "75522956174dd49a179e28e63d56539ccf1d6f9d"
+                "reference": "18ad53fc5662e0739a32f86d8dcbfbf5bd5b260a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/twbs/bootstrap/zipball/75522956174dd49a179e28e63d56539ccf1d6f9d",
-                "reference": "75522956174dd49a179e28e63d56539ccf1d6f9d",
+                "url": "https://api.github.com/repos/twbs/bootstrap/zipball/18ad53fc5662e0739a32f86d8dcbfbf5bd5b260a",
+                "reference": "18ad53fc5662e0739a32f86d8dcbfbf5bd5b260a",
                 "shasum": ""
             },
             "replace": {
@@ -3089,7 +3089,7 @@
                 "responsive",
                 "web"
             ],
-            "time": "2015-10-17 07:41:23"
+            "time": "2015-10-20 22:57:11"
         },
         {
             "name": "twig/extensions",
